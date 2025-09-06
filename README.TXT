@@ -35,7 +35,24 @@ Question #25 no the return statement inside the methhod does not change
 Question #27 The error is that its no longer a statement.
 28. The main difference is their return type
 29. both methods have a return type of void, so thye do not have a return statement that return a value.
-
-
-
+31. /**
+ * Increase score by the given number of points.
+ */
+ public void increaseScore(int points)
+ {
+  score = score + points;
+  // or simply: score+= points;
+ }
+33.  /**
+ * Reduce price by the given amount.
+ */
+ public void discount(int amount)
+ {
+    price-=amount;
+    }
+ // TODO: Subtract amount from price
+34. public void setAge(int currentAge)
+{
+    age = currentAge;
+}
 
