@@ -79,6 +79,7 @@ public class TicketMachine
         System.out.println("# " + price + " cents.");
         System.out.println("##################");
         System.out.println();
+        System.out.println("# " + "price" + " cents.");
 
         // Update the total collected with the balance.
         total = total + balance;

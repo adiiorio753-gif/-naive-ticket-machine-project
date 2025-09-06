@@ -56,4 +56,4 @@ How to start this project: Create one or more TicketMachine objects.
     age = currentAge;
 }
 37. identifer expected and illigal start of type.
-
+39. The word "price" is now a string literal, not a variable . so it will print;
