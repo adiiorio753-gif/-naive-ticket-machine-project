@@ -59,4 +59,5 @@ How to start this project: Create one or more TicketMachine objects.
 39. The word "price" is now a string literal, not a variable . so it will print;
 40. if writen like this System.out.println("# price cents."); it would still work and to the same
 42. each TicketMachine object has its own price field, set when the object is created.
+43. replacing it didn't work
 
