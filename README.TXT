@@ -13,16 +13,16 @@ It is discussed in chapter 2.
 Purpose of project: To illustrate the basics of fields, constructors, and methods.
 How to start this project: Create one or more TicketMachine objects.
 
-Question #2 After a picket is perchased the value in 0
-Question #3 No matter the amout of money inserted in the machine the ticket will go throght.
-Question #7 After changing it to class public it no longer works and the tickct machine is blocked off.
+2.After a picket is perchased the value in 0
+3.No matter the amout of money inserted in the machine the ticket will go throght.
+7.After changing it to class public it no longer works and the tickct machine is blocked off.
 Question #8 If you remove public from the outer wrapper it will still work
 Question #9 If you remove class and are left with public it will stop working
 Question #11 The Nmae and the no Return Type
 Question #12 count the type is int/represtative the ype is Sudent/bost the typ eis Server
 Question #13 alive,tutor,game
 Question #14 Class name s are Student, Server, Person,Game
-Question #15 yes it matters order private int price it placed if you movwe the words around it won't work.
+Question #15 yes it matters order private int price it placed if you move the words around it won't work.
 Question #16 yes without the semicolon it will not work.
 Question #18 student is the class
 Question #19 There are two title of the type String and price of the type double
@@ -33,6 +33,9 @@ Question #23 The header (the methhod names are different) The body (the return f
 Question #24 "what is the current balance?"
 Question #25 no the return statement inside the methhod does not change
 Question #27 The error is that its no longer a statement.
+28. The main difference is their return type
+29. both methods have a return type of void, so thye do not have a return statement that return a value.
+
 
 
 
