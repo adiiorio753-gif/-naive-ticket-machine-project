@@ -22,6 +22,7 @@ public class TicketMachine
     
     private boolean alive;
     
+    private int showPrice;
     
 
 
