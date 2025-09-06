@@ -19,6 +19,8 @@ public class TicketMachine
     private int total;
     
     private int status;
+    
+    private boolean alive;
 
     /**
      * Create a machine that issues tickets of the given price.
