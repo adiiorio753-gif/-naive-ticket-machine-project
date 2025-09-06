@@ -57,3 +57,4 @@ How to start this project: Create one or more TicketMachine objects.
 }
 37. identifer expected and illigal start of type.
 39. The word "price" is now a string literal, not a variable . so it will print;
+40. if writen like this System.out.println("# price cents."); it would still work and to the same
