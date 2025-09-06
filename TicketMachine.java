@@ -21,6 +21,9 @@ public class TicketMachine
     private int status;
     
     private boolean alive;
+    
+    
+
 
     /**
      * Create a machine that issues tickets of the given price.
@@ -58,7 +61,10 @@ public class TicketMachine
     {
         balance = balance + amount;
     }
-
+    /**
+     * public void prompt()
+     */
+    
     /**
      * Print a ticket.
      * Update the total collected and

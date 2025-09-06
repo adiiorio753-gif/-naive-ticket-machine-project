@@ -55,4 +55,5 @@ How to start this project: Create one or more TicketMachine objects.
 {
     age = currentAge;
 }
+37. identifer expected and illigal start of type.
 
